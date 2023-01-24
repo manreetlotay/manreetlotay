@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and ReactJS**
 
 - ✉️ How to reach me: **lotaymk@gmail.com**
 
