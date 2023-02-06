@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Python and ReactJS**
 
+- 🧠 Interests: **Full Stack Development**
+
 - ✉️ How to reach me: **lotaymk@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
