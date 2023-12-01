@@ -2,7 +2,7 @@
 <h3 align="center">A 3rd year Software Engineering student at Concordia University</h3>
 <img align="center" alt="girl computer" width="400" height="200" src="https://media.tenor.com/oRpvVCFlpNMAAAAC/crt-anime.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manreetlotay&label=Profile%20views&color=0e75b6&style=flat" alt="manreetlotay" /> </p>
+
 
 <h3 align="left">About Me</h3>
 
