@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **SQL**
 
 - 🧠 Interests: **Full Stack Development**
 
