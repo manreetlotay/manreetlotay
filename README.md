@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Manreet Kaur Lotay</h1>
-<h3 align="center">A 3rd year Software Engineering student at Concordia University</h3>
+<h3 align="center">A 4th year Software Engineering student at Concordia University</h3>
 <img align="center" alt="girl computer" width="400" height="200" src="https://media.tenor.com/oRpvVCFlpNMAAAAC/crt-anime.gif">
 
 
 
 <h3 align="left">About Me</h3>
-
-- 🌱 I’m currently learning **SQL**
 
 - 🧠 Interests: **Full Stack Development**
 
