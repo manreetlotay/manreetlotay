@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">Programming & Markup Languages</h3>
+<h3 align="left">Programming Languages</h3>
         <span class="items">
             <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>               </a> 
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
