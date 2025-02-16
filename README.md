@@ -10,7 +10,7 @@
 
 - ✉️ How to reach me: **lotaymk@gmail.com**
 
-- Currently Learning: **Flask**
+- Currently Learning: **Spring Boot**
 
 
 
